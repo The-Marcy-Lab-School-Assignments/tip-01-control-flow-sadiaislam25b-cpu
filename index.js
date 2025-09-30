@@ -7,7 +7,7 @@ Below 40 → "Wear a heavy coat, scarf, and boots."
 */
 
 const outfitPicker = (temp) => {
-  // ✍️ Write your code here
+  if (temp)
 };
 
 //Test your function below
